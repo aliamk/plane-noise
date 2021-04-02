@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aliamk/threejs-shaders-exp.git"
+    "url": "git+https://github.com/aliamk/plane-perlin-noise.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aliamk/threejs-shaders-exp/issues"
+    "url": "https://github.com/aliamk/plane-perlin-noise/issues"
   },
-  "homepage": "https://github.com/aliamk/threejs-shaders-exp#readme"
+  "homepage": "https://github.com/aliamk/plane-perlin-noise#readme"
 }
